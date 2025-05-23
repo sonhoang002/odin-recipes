@@ -1,0 +1,29 @@
+/* styles.css */
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    padding: 0px 60px;
+}
+
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    outline: auto;
+    padding: 8px;
+}
+
+img {
+    outline: auto;
+    display: block;
+    margin-left: auto;
+    
+}
+.heading {
+    margin-top: -300px;
+}
+
+li, p {
+    font-size: 22px;
+}
